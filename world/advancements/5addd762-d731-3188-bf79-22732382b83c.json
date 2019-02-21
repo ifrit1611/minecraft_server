@@ -380,6 +380,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-02-10 23:47:58 -0300",
+      "cooked_beef": "2019-02-20 22:40:11 -0300",
       "baked_potato": "2019-02-10 21:18:17 -0300",
       "bread": "2019-02-11 21:23:30 -0300",
       "rotten_flesh": "2019-02-10 21:42:39 -0300",
@@ -478,13 +479,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-10 21:07:37 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-10 21:07:37 -0300"
     },
@@ -570,7 +571,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2019-02-14 20:39:29 -0300"
+      "minecraft:cow": "2019-02-14 20:39:29 -0300",
+      "minecraft:chicken": "2019-02-20 22:17:44 -0300"
     },
     "done": false
   },
@@ -1603,8 +1605,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-02-16 02:42:06 -0300",
-      "minecraft:mountains": "2019-02-16 15:30:36 -0300",
       "minecraft:forest": "2019-02-10 21:12:24 -0300",
+      "minecraft:mountains": "2019-02-16 15:30:36 -0300",
       "minecraft:taiga": "2019-02-10 21:20:20 -0300",
       "minecraft:desert_hills": "2019-02-16 15:48:29 -0300",
       "minecraft:taiga_hills": "2019-02-17 12:06:29 -0300",
