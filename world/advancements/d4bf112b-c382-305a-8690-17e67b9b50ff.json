@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-02-21 23:58:38 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-02-10 21:10:34 -0300"
@@ -146,6 +152,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2019-02-10 22:45:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2019-02-21 23:58:35 -0300"
     },
     "done": true
   },
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-02-21 23:59:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-02-16 02:09:22 -0300"
@@ -341,6 +359,8 @@
       "bread": "2019-02-11 22:22:56 -0300",
       "rotten_flesh": "2019-02-12 20:16:16 -0300",
       "salmon": "2019-02-15 23:29:16 -0300",
+      "beetroot": "2019-02-22 14:46:44 -0300",
+      "cod": "2019-02-22 15:02:45 -0300",
       "cooked_salmon": "2019-02-16 23:38:19 -0300"
     },
     "done": false
@@ -441,13 +461,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-10 20:59:51 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-10 20:59:51 -0300"
     },
@@ -468,6 +488,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2019-02-15 23:11:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-02-21 23:58:38 -0300"
     },
     "done": true
   },
@@ -612,6 +638,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-02-10 21:25:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-02-21 23:59:59 -0300"
     },
     "done": true
   },
@@ -780,6 +812,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-02-10 21:04:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-02-22 14:34:44 -0300"
     },
     "done": true
   },
@@ -1090,6 +1128,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2019-02-22 15:15:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-02-10 21:10:34 -0300"
@@ -1186,6 +1230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-02-22 14:34:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-02-10 21:36:58 -0300"
@@ -1270,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-02-21 23:33:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-02-16 22:31:12 -0300"
@@ -1285,6 +1341,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-02-10 22:55:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-02-22 14:34:44 -0300"
     },
     "done": true
   },
